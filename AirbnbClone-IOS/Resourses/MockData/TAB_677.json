@@ -1,0 +1,1900 @@
+[
+    {
+        "listing": {
+            "avgRatingLocalized": "5.0",
+            "avgRatingA11yLabel": "5.0 out of 5 average rating",
+            "city": "Miami",
+            "contextualPictures": [
+                {
+                    "id": "1729741629",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-792223142947046509/original/f623c5a1-8af4-4bb9-873a-5f052b72a564.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1554662915",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-792223142947046509/original/fcb9938a-0c7e-4ff9-9c95-b62112220ee2.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1631787185",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-792223142947046509/original/eae30b8e-b338-45fe-9e11-79b6e81e400a.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "7 beds",
+                            "6 bedrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1729741246",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-792223142947046509/original/0585e7a9-e96e-4dab-b9de-0ab826d3142c.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "6.5 bathrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1729741222",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-792223142947046509/original/7c638124-8072-4e82-9355-12431a5c243f.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "2 king beds",
+                            "5 queen beds"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1729784827",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-792223142947046509/original/22e753b5-c520-4cda-a86d-bdca35177799.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "Rated 5 out of 5 for cleanliness"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                }
+            ],
+            "contextualPicturesCount": 30,
+            "contextualPicturesPageInfo": {
+                "hasNextPage": true,
+                "endCursor": "NQ=="
+            },
+            "coordinate": {
+                "longitude": -80.17261206585404,
+                "latitude": 25.854177632094117
+            },
+            "formattedBadges": [
+                {
+                    "textColor": "#000000",
+                    "text": "Guest favourite",
+                    "borderColor": null,
+                    "backgroundColor": null
+                }
+            ],
+            "id": "792223142947046509",
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "localizedCityName": "Miami",
+            "name": "Tulum on the Water - Miami Waterfront Villa",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+                "primaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "1,089 miles away",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "secondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "9–14 Aug",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapPrimaryLine": null,
+                "mapSecondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "9–14 Aug",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapCategoryInfo": [],
+                "distance": null
+            },
+            "tierId": 0,
+            "title": "Miami, Florida, US",
+            "titleLocale": "en"
+        },
+        "pricingQuote": {
+            "structuredStayDisplayPrice": {
+                "primaryLine": {
+                    "accessibilityLabel": "$7,342 total",
+                    "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                    "concatQualifierLeft": false,
+                    "price": "$7,342",
+                    "qualifier": "total",
+                    "trailingContent": null,
+                    "shortQualifier": "total"
+                },
+                "secondaryLine": null,
+                "explanationData": {
+                    "title": "Price breakdown",
+                    "priceDetails": [
+                        {
+                            "items": [
+                                {
+                                    "description": "$990 x 5 nights",
+                                    "priceString": "$4,950"
+                                },
+                                {
+                                    "description": "Cleaning fee",
+                                    "priceString": "$700"
+                                },
+                                {
+                                    "description": "Airbnb service fee",
+                                    "priceString": "$957"
+                                },
+                                {
+                                    "description": "Taxes",
+                                    "priceString": "$735"
+                                }
+                            ],
+                            "displayComponentType":
+                                "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                            "shouldRenderTopBorder": false
+                        }
+                    ]
+                },
+                "explanationDataDisplayPosition": "PRIMARY_LINE"
+            }
+        },
+        "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-08-09",
+            "checkout": "2024-08-14",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": "Tag:677",
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "enableM3PrivateRoom": true
+        }
+    },
+    {
+        "listing": {
+            "avgRatingLocalized": "5.0",
+            "avgRatingA11yLabel": "5.0 out of 5 average rating",
+            "city": "Messinia",
+            "contextualPictures": [
+                {
+                    "id": "1634489772",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-875883589010456991/original/5b239774-e3fc-4fe8-bbb2-99789d6612f4.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1634491112",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-875883589010456991/original/a4d75654-fc6b-4425-8157-88fb2deda1b9.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1634489369",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-875883589010456991/original/c7f83cc3-9db3-45d0-9fba-a135fcc2a0ad.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "2 beds",
+                            "1 bedroom"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1634491111",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-875883589010456991/original/e4613025-2d53-4cf6-a74b-582eb4deff61.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "Rated 5 out of 5 for cleanliness"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1634489980",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-875883589010456991/original/feb090cc-26ab-4ab2-951e-4bd296dba459.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1634490705",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-875883589010456991/original/1eb14253-7159-4477-88dd-98da4d7ae506.jpeg?im_w=720",
+                    "caption": null
+                }
+            ],
+            "contextualPicturesCount": 30,
+            "contextualPicturesPageInfo": {
+                "hasNextPage": true,
+                "endCursor": "NQ=="
+            },
+            "coordinate": {
+                "longitude": 22.311653611790646,
+                "latitude": 36.772155316037974
+            },
+            "formattedBadges": [
+                {
+                    "textColor": "#000000",
+                    "text": "Guest favourite",
+                    "borderColor": null,
+                    "backgroundColor": null
+                }
+            ],
+            "id": "875883589010456991",
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "localizedCityName": "Messinia",
+            "name": "Castor & Pollux exclusive living *Villa 2*",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+                "primaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "4,912 miles away",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "secondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "20–25 Sept",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapPrimaryLine": null,
+                "mapSecondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "20–25 Sept",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapCategoryInfo": [],
+                "distance": null
+            },
+            "tierId": 0,
+            "title": "Messinia, Greece",
+            "titleLocale": "en"
+        },
+        "pricingQuote": {
+            "structuredStayDisplayPrice": {
+                "primaryLine": {
+                    "accessibilityLabel": "$1,732 total",
+                    "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                    "concatQualifierLeft": false,
+                    "price": "$1,732",
+                    "qualifier": "total",
+                    "trailingContent": null,
+                    "shortQualifier": "total"
+                },
+                "secondaryLine": null,
+                "explanationData": {
+                    "title": "Price breakdown",
+                    "priceDetails": [
+                        {
+                            "items": [
+                                {
+                                    "description": "$293 x 5 nights",
+                                    "priceString": "$1,464"
+                                },
+                                {
+                                    "description": "Airbnb service fee",
+                                    "priceString": "$268"
+                                }
+                            ],
+                            "displayComponentType":
+                                "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                            "shouldRenderTopBorder": false
+                        }
+                    ]
+                },
+                "explanationDataDisplayPosition": "PRIMARY_LINE"
+            }
+        },
+        "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-09-20",
+            "checkout": "2024-09-25",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": "Tag:677",
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "enableM3PrivateRoom": true
+        }
+    },
+    {
+        "listing": {
+            "avgRatingLocalized": "5.0",
+            "avgRatingA11yLabel": "5.0 out of 5 average rating",
+            "city": "Marrakesh",
+            "contextualPictures": [
+                {
+                    "id": "1848550963",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-1099422947384802729/original/ad57299d-73bf-404c-a070-05976bd74d8e.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1848560594",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-1099422947384802729/original/ec1569f5-2813-4235-af17-31db95535e46.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1848550956",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-1099422947384802729/original/01166d7b-3f5d-4ba1-a349-afc11a132fb2.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "5 beds",
+                            "2 bedrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1848560567",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-1099422947384802729/original/5c5f4c4a-00e3-4144-8f50-80a9accb4937.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "3 bathrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1848550984",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-1099422947384802729/original/658ed71f-0bb8-4647-9a27-b8c97405631c.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "3 single beds",
+                            "2 sofa beds"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1849446468",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-1099422947384802729/original/c79b6d1d-f231-4a22-85b9-a55afbc1c8c8.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "Rated 5 out of 5 for cleanliness"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                }
+            ],
+            "contextualPicturesCount": 30,
+            "contextualPicturesPageInfo": {
+                "hasNextPage": true,
+                "endCursor": "NQ=="
+            },
+            "coordinate": {
+                "longitude": -7.978231054223401,
+                "latitude": 31.454412200382443
+            },
+            "formattedBadges": [
+                {
+                    "textColor": "#000000",
+                    "text": "Guest favourite",
+                    "borderColor": null,
+                    "backgroundColor": null
+                }
+            ],
+            "id": "1099422947384802729",
+            "isAutoTranslated": true,
+            "listingObjType": "REGULAR",
+            "localizedCityName": "Marrakesh",
+            "name": "Villa Alambra Marrakech Private Pool on the Atlas",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+                "primaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "3,655 miles away",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "secondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "16–21 Sept",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapPrimaryLine": null,
+                "mapSecondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "16–21 Sept",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapCategoryInfo": [],
+                "distance": null
+            },
+            "tierId": 0,
+            "title": "Marrakesh, Morocco",
+            "titleLocale": "en-GB"
+        },
+        "pricingQuote": {
+            "structuredStayDisplayPrice": {
+                "primaryLine": {
+                    "accessibilityLabel": "$1,222 total",
+                    "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                    "concatQualifierLeft": false,
+                    "price": "$1,222",
+                    "qualifier": "total",
+                    "trailingContent": null,
+                    "shortQualifier": "total"
+                },
+                "secondaryLine": null,
+                "explanationData": {
+                    "title": "Price breakdown",
+                    "priceDetails": [
+                        {
+                            "items": [
+                                {
+                                    "description": "$201 x 5 nights",
+                                    "priceString": "$1,006"
+                                },
+                                {
+                                    "description": "Cleaning fee",
+                                    "priceString": "$15"
+                                },
+                                {
+                                    "description": "Airbnb service fee",
+                                    "priceString": "$201"
+                                }
+                            ],
+                            "displayComponentType":
+                                "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                            "shouldRenderTopBorder": false
+                        }
+                    ]
+                },
+                "explanationDataDisplayPosition": "PRIMARY_LINE"
+            }
+        },
+        "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-09-16",
+            "checkout": "2024-09-21",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": "Tag:677",
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "enableM3PrivateRoom": true
+        }
+    },
+    {
+        "listing":
+            {
+                "avgRatingLocalized": "New",
+                "avgRatingA11yLabel": "New place to stay",
+                "city": "Terre Haute",
+                "contextualPictures": [
+                    {
+                        "id": "1968219383",
+                        "picture":
+                            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwNTgxODA1Mjg1ODE2NTU5MA%3D%3D/original/b5226ee6-c5be-4705-bdd7-4ad33432a760.jpeg?im_w=720",
+                        "caption": null
+                    },
+                    {
+                        "id": "1968211770",
+                        "picture":
+                            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwNTgxODA1Mjg1ODE2NTU5MA%3D%3D/original/dbe288aa-cd7f-4d22-aa91-ade7aedc8e0e.jpeg?im_w=720",
+                        "caption": null
+                    },
+                    {
+                        "id": "1968336227",
+                        "picture":
+                            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwNTgxODA1Mjg1ODE2NTU5MA%3D%3D/original/ef330d24-d36d-4d70-bc52-bb378431e1e7.jpeg?im_w=720",
+                        "caption": {
+                            "kickerBadge": null,
+                            "messages": [
+                                "5 beds",
+                                "5 bedrooms"
+                            ],
+                            "textColor": null,
+                            "formattedMessages": null
+                        }
+                    },
+                    {
+                        "id": "1968215525",
+                        "picture":
+                            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwNTgxODA1Mjg1ODE2NTU5MA%3D%3D/original/01b38db3-4696-4dc2-8d8f-8c3e9f910da2.jpeg?im_w=720",
+                        "caption": {
+                            "kickerBadge": null,
+                            "messages": [
+                                "4 bathrooms"
+                            ],
+                            "textColor": null,
+                            "formattedMessages": null
+                        }
+                    },
+                    {
+                        "id": "1968213613",
+                        "picture":
+                            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwNTgxODA1Mjg1ODE2NTU5MA%3D%3D/original/5220b57c-c9d4-41ef-931b-2d97a682dbe8.jpeg?im_w=720",
+                        "caption": null
+                    },
+                    {
+                        "id": "1968218793",
+                        "picture":
+                            "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTIwNTgxODA1Mjg1ODE2NTU5MA%3D%3D/original/5bfafc7f-2b56-429c-b158-6ec303e8b7ac.jpeg?im_w=720",
+                        "caption": null
+                    }
+                ],
+                "contextualPicturesCount": 30,
+                "contextualPicturesPageInfo": {
+                    "hasNextPage": true,
+                    "endCursor": "NQ=="
+                },
+                "coordinate": {
+                    "longitude": -87.3479647985681,
+                    "latitude": 39.46590423122975
+                },
+                "formattedBadges": [],
+                "id": "1205818052858165590",
+                "isAutoTranslated": false,
+                "listingObjType": "REGULAR",
+                "localizedCityName": "Terre Haute",
+                "name": "LuxeVilla-Pool-GameZone-Sleeps14-Kid|PetFriendly",
+                "primaryHostPassport": null,
+                "pdpType": "MARKETPLACE",
+                "roomTypeCategory": "entire_home",
+                "roomTypeId": null,
+                "structuredContent": {
+                    "primaryLine": [
+                        {
+                            "type": null,
+                            "headline": null,
+                            "body": "710 miles away",
+                            "bodyType": null,
+                            "bodyA11yLabel": null,
+                            "fontWeight": null
+                        }
+                    ],
+                    "secondaryLine": [
+                        {
+                            "type": null,
+                            "headline": null,
+                            "body": "31 Aug – 5 Sept",
+                            "bodyType": null,
+                            "bodyA11yLabel": null,
+                            "fontWeight": null
+                        }
+                    ],
+                    "mapPrimaryLine": null,
+                    "mapSecondaryLine": [
+                        {
+                            "type": null,
+                            "headline": null,
+                            "body": "31 Aug – 5 Sept",
+                            "bodyType": null,
+                            "bodyA11yLabel": null,
+                            "fontWeight": null
+                        }
+                    ],
+                    "mapCategoryInfo": [],
+                    "distance": null
+                },
+                "tierId": 0,
+                "title": "Terre Haute, Indiana, US",
+                "titleLocale": "en"
+            },
+        "pricingQuote": {
+            "structuredStayDisplayPrice": {
+                "primaryLine": {
+                    "accessibilityLabel": "$2,812 total",
+                    "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                    "concatQualifierLeft": false,
+                    "price": "$2,812",
+                    "qualifier": "total",
+                    "trailingContent": null,
+                    "shortQualifier": "total"
+                },
+                "secondaryLine": null,
+                "explanationData": {
+                    "title": "Price breakdown",
+                    "priceDetails": [
+                        {
+                            "items": [
+                                {
+                                    "description": "$396 x 5 nights",
+                                    "priceString": "$1,978"
+                                },
+                                {
+                                    "description": "Special offer",
+                                    "priceString": "-$380"
+                                },
+                                {
+                                    "description": "Cleaning fee",
+                                    "priceString": "$500"
+                                },
+                                {
+                                    "description": "Airbnb service fee",
+                                    "priceString": "$355"
+                                },
+                                {
+                                    "description": "Taxes",
+                                    "priceString": "$359"
+                                }
+                            ],
+                            "displayComponentType":
+                                "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                            "shouldRenderTopBorder": false
+                        }
+                    ]
+                },
+                "explanationDataDisplayPosition": "PRIMARY_LINE"
+            }
+        },
+        "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-08-31",
+            "checkout": "2024-09-05",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": "Tag:677",
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "enableM3PrivateRoom": true
+        }
+    },
+    {
+        "listing": {
+            "avgRatingLocalized": "5.0",
+            "avgRatingA11yLabel": "5.0 out of 5 average rating",
+            "city": "Carolina",
+            "contextualPictures": [
+                {
+                    "id": "1952273190",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1200227586117593031/original/5e93e96f-70e8-4150-9eb5-688ddf9c5348.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1952273226",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1200227586117593031/original/3967e1f8-e28c-482f-8349-99dbad56d177.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1952273206",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1200227586117593031/original/76b871af-42a7-425b-ada2-c0dbf1586125.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "4 beds",
+                            "3 bedrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1952273212",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1200227586117593031/original/1528e300-66be-47c7-b8de-0fd3cf7d4804.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "1 bathroom"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1952273193",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1200227586117593031/original/fea58571-8823-4417-a75b-34432d07bb4e.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "Rated 5 out of 5 for cleanliness"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1952273189",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1200227586117593031/original/88fa0d9d-63d7-48b5-8045-eae980e6e240.jpeg?im_w=720",
+                    "caption": null
+                }
+            ],
+            "contextualPicturesCount": 30,
+            "contextualPicturesPageInfo": {
+                "hasNextPage": true,
+                "endCursor": "NQ=="
+            },
+            "coordinate": {
+                "longitude": -66.00838689999999,
+                "latitude": 18.4262185
+            },
+            "formattedBadges": [
+                {
+                    "textColor": "#000000",
+                    "text": "Guest favourite",
+                    "borderColor": null,
+                    "backgroundColor": null
+                }
+            ],
+            "id": "1200227586117593031",
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "localizedCityName": "Carolina",
+            "name": "Villa Estrella PR (near Airport & Beach)",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+                "primaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "1,614 miles away",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "secondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "3–8 Nov",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapPrimaryLine": null,
+                "mapSecondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "3–8 Nov",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapCategoryInfo": [],
+                "distance": null
+            },
+            "tierId": 0,
+            "title": "Carolina, Puerto Rico",
+            "titleLocale": "en"
+        },
+        "pricingQuote": {
+            "structuredStayDisplayPrice": {
+                "primaryLine": {
+                    "accessibilityLabel": "$1,500 total",
+                    "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                    "concatQualifierLeft": false,
+                    "price": "$1,500",
+                    "qualifier": "total",
+                    "trailingContent": null,
+                    "shortQualifier": "total"
+                },
+                "secondaryLine": null,
+                "explanationData": {
+                    "title": "Price breakdown",
+                    "priceDetails": [
+                        {
+                            "items": [
+                                {
+                                    "description": "$220 x 5 nights",
+                                    "priceString": "$1,100"
+                                },
+                                {
+                                    "description": "Cleaning fee",
+                                    "priceString": "$110"
+                                },
+                                {
+                                    "description": "Airbnb service fee",
+                                    "priceString": "$205"
+                                },
+                                {
+                                    "description": "Taxes",
+                                    "priceString": "$85"
+                                }
+                            ],
+                            "displayComponentType":
+                                "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                            "shouldRenderTopBorder": false
+                        }
+                    ]
+                },
+                "explanationDataDisplayPosition": "PRIMARY_LINE"
+            }
+        },
+        "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-11-03",
+            "checkout": "2024-11-08",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": "Tag:677",
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "enableM3PrivateRoom": true
+        }
+    },
+    {
+        "listing": {
+            "avgRatingLocalized": "4.99",
+            "avgRatingA11yLabel": "4.99 out of 5 average rating",
+            "city": "Pedro Garcia",
+            "contextualPictures": [
+                {
+                    "id": "1721108555",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-925953994269516171/original/f891f925-903d-432d-8cea-02d1263a374e.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1721107733",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-925953994269516171/original/982b4c0b-ceeb-40a9-a9d9-33bdf8b050d7.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1721108899",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-925953994269516171/original/9fda7b1d-812f-47d4-bc10-9e42936d8dc7.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "1 bed",
+                            "1 bedroom"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1721109182",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-925953994269516171/original/1b259316-e81f-49d0-9860-de45d60901d0.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "1 bathroom"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1721107730",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-925953994269516171/original/9cf24617-ae65-451f-ae19-af63b2b95f4d.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "Rated 5 out of 5 for cleanliness"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1721108247",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/hosting/Hosting-925953994269516171/original/0d09f603-9e3a-4b58-9e6d-2e645ccc6264.jpeg?im_w=720",
+                    "caption": null
+                }
+            ],
+            "contextualPicturesCount": 30,
+            "contextualPicturesPageInfo": {
+                "hasNextPage": true,
+                "endCursor": "NQ=="
+            },
+            "coordinate": {
+                "longitude": -70.64832825667209,
+                "latitude": 19.58979097349346
+            },
+            "formattedBadges": [
+                {
+                    "textColor": "#000000",
+                    "text": "Guest favourite",
+                    "borderColor": null,
+                    "backgroundColor": null
+                }
+            ],
+            "id": "925953994269516171",
+            "isAutoTranslated": true,
+            "listingObjType": "REGULAR",
+            "localizedCityName": "Pedro Garcia",
+            "name": "Sunset Bamboo Villa, 360 View, Heated Pool",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+                "primaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "1,475 miles away",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "secondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "19–24 Aug",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapPrimaryLine": null,
+                "mapSecondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "19–24 Aug",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapCategoryInfo": [],
+                "distance": null
+            },
+            "tierId": 0,
+            "title": "Pedro Garcia, Dominican Republic",
+            "titleLocale": "en-GB"
+        },
+        "pricingQuote": {
+            "structuredStayDisplayPrice": {
+                "primaryLine": {
+                    "accessibilityLabel": "$855 total",
+                    "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                    "concatQualifierLeft": false,
+                    "price": "$855",
+                    "qualifier": "total",
+                    "trailingContent": null,
+                    "shortQualifier": "total"
+                },
+                "secondaryLine": null,
+                "explanationData": {
+                    "title": "Price breakdown",
+                    "priceDetails": [
+                        {
+                            "items": [
+                                {
+                                    "description": "$169 x 5 nights",
+                                    "priceString": "$845"
+                                },
+                                {
+                                    "description": "Long stay discount",
+                                    "priceString": "-$144"
+                                },
+                                {
+                                    "description": "Cleaning fee",
+                                    "priceString": "$30"
+                                },
+                                {
+                                    "description": "Airbnb service fee",
+                                    "priceString": "$124"
+                                }
+                            ],
+                            "displayComponentType":
+                                "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                            "shouldRenderTopBorder": false
+                        }
+                    ]
+                },
+                "explanationDataDisplayPosition": "PRIMARY_LINE"
+            }
+        },
+        "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-08-19",
+            "checkout": "2024-08-24",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": "Tag:677",
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "enableM3PrivateRoom": true
+        }
+    },
+    {
+        "listing": {
+            "avgRatingLocalized": "4.83",
+            "avgRatingA11yLabel": "4.83 out of 5 average rating",
+            "city": "Orlando",
+            "contextualPictures": [
+                {
+                    "id": "1874492133",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1125515620018721125/original/5cb550f6-7086-4c96-9cb5-d39833d2fca0.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1874492156",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1125515620018721125/original/0e782f56-62b0-4c7f-b1e1-d7e1f5b43470.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1874493000",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1125515620018721125/original/caf78ae3-a588-49a4-898b-e68e07fb9bb0.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "8 beds",
+                            "4 bedrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1874475895",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1125515620018721125/original/50f3f066-7750-468e-9505-36422f71a775.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "3 bathrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1874473721",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1125515620018721125/original/67dd7be4-75bb-4bf0-9bd6-b8393e0e6d4c.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "Rated 4.8 out of 5 for cleanliness"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1874472142",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1125515620018721125/original/35b1e2e5-4c5c-498b-b39e-d757af4c08c8.jpeg?im_w=720",
+                    "caption": null
+                }
+            ],
+            "contextualPicturesCount": 30,
+            "contextualPicturesPageInfo": {
+                "hasNextPage": true,
+                "endCursor": "NQ=="
+            },
+            "coordinate": {
+                "longitude": -81.4022978148537,
+                "latitude": 28.550783663114046
+            },
+            "formattedBadges": [
+                {
+                    "textColor": "#000000",
+                    "text": "Guest favourite",
+                    "borderColor": null,
+                    "backgroundColor": null
+                }
+            ],
+            "id": "1125515620018721125",
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "localizedCityName": "Orlando",
+            "name": "Casa Lago - Downtown Orlando",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+                "primaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "941 miles away",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "secondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "19–24 Nov",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapPrimaryLine": null,
+                "mapSecondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "19–24 Nov",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapCategoryInfo": [],
+                "distance": null
+            },
+            "tierId": 0,
+            "title": "Orlando, Florida, US",
+            "titleLocale": "en"
+        },
+        "pricingQuote": {
+            "structuredStayDisplayPrice": {
+                "primaryLine": {
+                    "accessibilityLabel": "$2,453 total",
+                    "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                    "concatQualifierLeft": false,
+                    "price": "$2,453",
+                    "qualifier": "total",
+                    "trailingContent": null,
+                    "shortQualifier": "total"
+                },
+                "secondaryLine": null,
+                "explanationData": {
+                    "title": "Price breakdown",
+                    "priceDetails": [
+                        {
+                            "items": [
+                                {
+                                    "description": "$319 x 5 nights",
+                                    "priceString": "$1,595"
+                                },
+                                {
+                                    "description": "Cleaning fee",
+                                    "priceString": "$300"
+                                },
+                                {
+                                    "description": "Airbnb service fee",
+                                    "priceString": "$321"
+                                },
+                                {
+                                    "description": "Taxes",
+                                    "priceString": "$237"
+                                }
+                            ],
+                            "displayComponentType":
+                                "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                            "shouldRenderTopBorder": false
+                        }
+                    ]
+                },
+                "explanationDataDisplayPosition": "PRIMARY_LINE"
+            }
+        },
+        "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-11-19",
+            "checkout": "2024-11-24",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": "Tag:677",
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "enableM3PrivateRoom": true
+        }
+    },
+    {
+        "listing": {
+            "avgRatingLocalized": "4.87",
+            "avgRatingA11yLabel": "4.87 out of 5 average rating",
+            "city": "Lavrion",
+            "contextualPictures": [
+                {
+                    "id": "1396712954",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-18902611/original/7ab0d497-6db7-480d-9eff-463feb6caa62.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "323795882",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/244ebd34-0067-49fb-ac7e-7f9b01798f31.jpg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1398954793",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-18902611/original/bfbbd5b6-834a-4ab3-ad69-4994e99688cd.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "8 beds",
+                            "6 bedrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1398954755",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-18902611/original/f749addf-4f18-4921-84f7-e45606a8b0ba.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "3.5 bathrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1398954925",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-18902611/original/3b247d49-bc01-4a59-b25d-ab29f607d7b1.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "3 double beds",
+                            "5 single beds"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1398954971",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-18902611/original/0669370e-6544-4c05-a095-cd9c365fbc43.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "Rated 4.7 out of 5 for cleanliness"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                }
+            ],
+            "contextualPicturesCount": 30,
+            "contextualPicturesPageInfo": {
+                "hasNextPage": true,
+                "endCursor": "NQ=="
+            },
+            "coordinate": {
+                "longitude": 24.072407,
+                "latitude": 37.686951
+            },
+            "formattedBadges": [
+                {
+                    "textColor": "#000000",
+                    "text": "Guest favourite",
+                    "borderColor": null,
+                    "backgroundColor": null
+                }
+            ],
+            "id": "18902611",
+            "isAutoTranslated": true,
+            "listingObjType": "REGULAR",
+            "localizedCityName": "Lavrion",
+            "name": "Cape Villa and Sounio",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+                "primaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "4,950 miles away",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "secondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "1–6 Nov",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapPrimaryLine": null,
+                "mapSecondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "1–6 Nov",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapCategoryInfo": [],
+                "distance": null
+            },
+            "tierId": 0,
+            "title": "Lavrion, Greece",
+            "titleLocale": "en-GB"
+        },
+        "pricingQuote": {
+            "structuredStayDisplayPrice": {
+                "primaryLine": {
+                    "accessibilityLabel": "$1,701 total",
+                    "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                    "concatQualifierLeft": false,
+                    "price": "$1,701",
+                    "qualifier": "total",
+                    "trailingContent": null,
+                    "shortQualifier": "total"
+                },
+                "secondaryLine": null,
+                "explanationData": {
+                    "title": "Price breakdown",
+                    "priceDetails": [
+                        {
+                            "items": [
+                                {
+                                    "description": "$273 x 5 nights",
+                                    "priceString": "$1,364"
+                                },
+                                {
+                                    "description": "Cleaning fee",
+                                    "priceString": "$55"
+                                },
+                                {
+                                    "description": "Airbnb service fee",
+                                    "priceString": "$260"
+                                },
+                                {
+                                    "description": "Taxes",
+                                    "priceString": "$22"
+                                }
+                            ],
+                            "displayComponentType":
+                                "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                            "shouldRenderTopBorder": false
+                        }
+                    ]
+                },
+                "explanationDataDisplayPosition": "PRIMARY_LINE"
+            }
+        },
+        "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-11-01",
+            "checkout": "2024-11-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": "Tag:677",
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "enableM3PrivateRoom": true
+        }
+    },
+    {
+        "listing":
+            {
+                "avgRatingLocalized": "4.92",
+                "avgRatingA11yLabel": "4.92 out of 5 average rating",
+                "city": "Hialeah",
+                "contextualPictures":
+                    [
+                        {
+                            "id": "-5485505782386919547",
+                            "picture":
+                                "https://a0.muscache.com/im/pictures/miso/Hosting-20146384/original/6ed41362-5908-4dab-ba08-f4fd6f30b7ab.jpeg?aki_policy=large",
+                            "caption":
+                                {
+                                    "kickerBadge": null,
+                                    "messages": null,
+                                    "textColor": null,
+                                    "formattedMessages": null
+                                }
+                        },
+                        {
+                            "id": "1713454643",
+                            "picture":
+                                "https://a0.muscache.com/im/pictures/miso/Hosting-20146384/original/0e4205c4-48c2-455a-87f8-748567d8bce3.jpeg?im_w=720",
+                            "caption": null
+                        },
+                        {
+                            "id": "1712361075",
+                            "picture":
+                                "https://a0.muscache.com/im/pictures/miso/Hosting-20146384/original/e5b0e0ee-b968-478f-b683-d596c1f39a5a.jpeg?im_w=720",
+                            "caption":
+                                {
+                                    "kickerBadge": null,
+                                    "messages": [
+                                        "6 beds",
+                                        "5 bedrooms"
+                                    ],
+                                    "textColor": null,
+                                    "formattedMessages": null
+                                }
+                        },
+                        {
+                            "id": "1712360796",
+                            "picture":
+                                "https://a0.muscache.com/im/pictures/miso/Hosting-20146384/original/5f779ca2-e9f4-42ac-8953-b021fa4f7c9a.jpeg?im_w=720",
+                            "caption":
+                                {
+                                    "kickerBadge": null,
+                                    "messages": [
+                                        "3.5 bathrooms"
+                                    ],
+                                    "textColor": null,
+                                    "formattedMessages": null
+                                }
+                        },
+                        {
+                            "id": "1712361341",
+                            "picture":
+                                "https://a0.muscache.com/im/pictures/miso/Hosting-20146384/original/88a33b1c-1d8b-424b-bb1a-8f56e41e66a6.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "1 king bed",
+                                    "3 queen beds",
+                                    "more"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        },
+                        {
+                            "id": "1712360877",
+                            "picture":
+                                "https://a0.muscache.com/im/pictures/miso/Hosting-20146384/original/62d8eac6-4ea0-4ffa-8a0e-cdf79999f90c.jpeg?im_w=720",
+                            "caption": {
+                                "kickerBadge": null,
+                                "messages": [
+                                    "Rated 4.9 out of 5 for cleanliness"
+                                ],
+                                "textColor": null,
+                                "formattedMessages": null
+                            }
+                        }
+                    ],
+                "contextualPicturesCount": 30,
+                "contextualPicturesPageInfo": {
+                    "hasNextPage": true,
+                    "endCursor": "NQ=="
+                },
+                "coordinate": {
+                    "longitude": -80.34581756591797,
+                    "latitude": 25.93887710571289
+                },
+                "formattedBadges": [
+                    {
+                        "textColor": "#000000",
+                        "text": "Guest favourite",
+                        "borderColor": null,
+                        "backgroundColor": null
+                    }
+                ],
+                "id": "20146384",
+                "isAutoTranslated": false,
+                "listingObjType": "REGULAR",
+                "localizedCityName": "Hialeah",
+                "name":
+                    "Limited Availability Luxurious 5-Bedroom VIP  Home",
+                "primaryHostPassport": null,
+                "pdpType": "MARKETPLACE",
+                "roomTypeCategory": "entire_home",
+                "roomTypeId": null,
+                "structuredContent": {
+                    "primaryLine": [
+                        {
+                            "type": null,
+                            "headline": null,
+                            "body": "1,086 miles away",
+                            "bodyType": null,
+                            "bodyA11yLabel": null,
+                            "fontWeight": null
+                        }
+                    ],
+                    "secondaryLine": [
+                        {
+                            "type": null,
+                            "headline": null,
+                            "body": "2–7 Mar",
+                            "bodyType": null,
+                            "bodyA11yLabel": null,
+                            "fontWeight": null
+                        }
+                    ],
+                    "mapPrimaryLine": null,
+                    "mapSecondaryLine": [
+                        {
+                            "type": null,
+                            "headline": null,
+                            "body": "2–7 Mar",
+                            "bodyType": null,
+                            "bodyA11yLabel": null,
+                            "fontWeight": null
+                        }
+                    ],
+                    "mapCategoryInfo": [],
+                    "distance": null
+                },
+                "tierId": 0,
+                "title": "Hialeah, Florida, US",
+                "titleLocale": "en"
+            },
+        "pricingQuote": {
+            "structuredStayDisplayPrice": {
+                "primaryLine": {
+                    "accessibilityLabel": "$2,490 total",
+                    "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                    "concatQualifierLeft": false,
+                    "price": "$2,490",
+                    "qualifier": "total",
+                    "trailingContent": null,
+                    "shortQualifier": "total"
+                },
+                "secondaryLine": null,
+                "explanationData": {
+                    "title": "Price breakdown",
+                    "priceDetails": [
+                        {
+                            "items": [
+                                {
+                                    "description": "$363 x 5 nights",
+                                    "priceString": "$1,814"
+                                },
+                                {
+                                    "description": "Long stay discount",
+                                    "priceString": "-$17"
+                                },
+                                {
+                                    "description": "Cleaning fee",
+                                    "priceString": "$172"
+                                },
+                                {
+                                    "description": "Taxes",
+                                    "priceString": "$521"
+                                }
+                            ],
+                            "displayComponentType":
+                                "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                            "shouldRenderTopBorder": false
+                        }
+                    ]
+                },
+                "explanationDataDisplayPosition": "PRIMARY_LINE"
+            }
+        },
+        "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2025-03-02",
+            "checkout": "2025-03-07",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": "Tag:677",
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "enableM3PrivateRoom": true
+        }
+    },
+    {
+        "listing": {
+            "avgRatingLocalized": "New",
+            "avgRatingA11yLabel": "New place to stay",
+            "city": "Leeward Settlement",
+            "contextualPictures": [
+                {
+                    "id": "1923708155228049503",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1213984786719565679/original/b97542f7-3494-4325-9e07-62b92718fb6a.jpeg?aki_policy=large",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": null,
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1966955978",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1213984786719565679/original/2cbbabd1-80fa-4749-93bd-f53e07464fd6.jpeg?im_w=720",
+                    "caption": null
+                },
+                {
+                    "id": "1966964908",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1213984786719565679/original/f5f673b8-69ee-48cf-8840-94d0259b08a0.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "5 beds",
+                            "3 bedrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1966939680",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1213984786719565679/original/34979f04-e3b6-4049-b7a8-a9cfaf526a50.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "3.5 bathrooms"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1966957283",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1213984786719565679/original/14eed91e-2dbc-48ba-880c-208726762d54.jpeg?im_w=720",
+                    "caption": {
+                        "kickerBadge": null,
+                        "messages": [
+                            "1 king bed",
+                            "2 queen beds",
+                            "more"
+                        ],
+                        "textColor": null,
+                        "formattedMessages": null
+                    }
+                },
+                {
+                    "id": "1966964878",
+                    "picture":
+                        "https://a0.muscache.com/im/pictures/miso/Hosting-1213984786719565679/original/0ebe09e2-65c1-41ad-be85-5458c234c113.jpeg?im_w=720",
+                    "caption": null
+                }
+            ],
+            "contextualPicturesCount": 30,
+            "contextualPicturesPageInfo": {
+                "hasNextPage": true,
+                "endCursor": "NQ=="
+            },
+            "coordinate": {
+                "longitude": -72.14826942869622,
+                "latitude": 21.8144068232375
+            },
+            "formattedBadges": [],
+            "id": "1213984786719565679",
+            "isAutoTranslated": false,
+            "listingObjType": "REGULAR",
+            "localizedCityName": "Leeward Settlement",
+            "name": "Vacay Vibez Villa Luxury Water Front with Pool",
+            "primaryHostPassport": null,
+            "pdpType": "MARKETPLACE",
+            "roomTypeCategory": "entire_home",
+            "roomTypeId": null,
+            "structuredContent": {
+                "primaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "1,313 miles away",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "secondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "1–6 Sept",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapPrimaryLine": null,
+                "mapSecondaryLine": [
+                    {
+                        "type": null,
+                        "headline": null,
+                        "body": "1–6 Sept",
+                        "bodyType": null,
+                        "bodyA11yLabel": null,
+                        "fontWeight": null
+                    }
+                ],
+                "mapCategoryInfo": [],
+                "distance": null
+            },
+            "tierId": 0,
+            "title": "Leeward Settlement, Turks & Caicos Islands",
+            "titleLocale": "en"
+        },
+        "pricingQuote": {
+            "structuredStayDisplayPrice": {
+                "primaryLine": {
+                    "accessibilityLabel": "$7,221 total",
+                    "displayComponentType": "QUALIFIED_DISPLAY_PRICE_LINE",
+                    "concatQualifierLeft": false,
+                    "price": "$7,221",
+                    "qualifier": "total",
+                    "trailingContent": null,
+                    "shortQualifier": "total"
+                },
+                "secondaryLine": null,
+                "explanationData": {
+                    "title": "Price breakdown",
+                    "priceDetails": [
+                        {
+                            "items": [
+                                {
+                                    "description": "$1,060 x 5 nights",
+                                    "priceString": "$5,300"
+                                },
+                                {
+                                    "description": "Cleaning fee",
+                                    "priceString": "$300"
+                                },
+                                {
+                                    "description": "Airbnb service fee",
+                                    "priceString": "$949"
+                                },
+                                {
+                                    "description": "Taxes",
+                                    "priceString": "$672"
+                                }
+                            ],
+                            "displayComponentType":
+                                "DISPLAY_PRICE_EXPLANATION_LINE_GROUP",
+                            "shouldRenderTopBorder": false
+                        }
+                    ]
+                },
+                "explanationDataDisplayPosition": "PRIMARY_LINE"
+            }
+        },
+        "listingParamOverrides": {
+            "adults": 1,
+            "children": 0,
+            "infants": 0,
+            "checkin": "2024-09-01",
+            "checkout": "2024-09-06",
+            "causeId": null,
+            "relaxedAmenityIds": null,
+            "categoryTag": "Tag:677",
+            "pets": 0,
+            "splitStaysUuid": null,
+            "highlightType": null,
+            "enableM3PrivateRoom": true
+        }
+    }
+]
+
+
