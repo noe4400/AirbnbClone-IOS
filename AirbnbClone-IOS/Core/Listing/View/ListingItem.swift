@@ -55,7 +55,7 @@ struct ListingItem: View {
 
                 }.padding()
 
-            }
+            }.padding(.vertical, 10)
 
             HStack(alignment: .top) {
                 VStack(alignment: .leading, spacing: 10) {

@@ -18,13 +18,16 @@ struct ListingDataModel: Codable, Identifiable {
         case priceData = "pricingQuote"
         case checkInOut = "listingParamOverrides"
     }
-    
-    init(listing:ListingModel, priceData: PriceData?, checkInOut: ListingParamOverrides?){
+
+    init(
+        listing: ListingModel, priceData: PriceData?,
+        checkInOut: ListingParamOverrides?
+    ) {
         self.listing = listing
         self.priceData = priceData
         self.checkInOut = checkInOut
     }
-        
+
     init(from decoder: any Decoder) throws {
         let container = try decoder.container(keyedBy: CodingKeys.self)
         self.listing = try container.decode(ListingModel.self, forKey: .listing)
