@@ -17,7 +17,12 @@ struct ListingList: View {
                     ListingItem(listingData: listingItem)
 
                 }
-
+                
+                if(listingListViewModel.isLoading){
+                    ForEach(0...4, id: \.self){ _ in
+                        ListingItemLoading()
+                    }
+                }
             }.onAppear {
                 listingListViewModel.getListings()
             }
