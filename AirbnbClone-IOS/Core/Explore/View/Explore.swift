@@ -12,6 +12,7 @@ struct Explore: View {
         VStack(spacing: 0) {
             VStack {
                 SearchBarAndFilters()
+                CategoryList()
             }
             .padding(.vertical)
             .background(

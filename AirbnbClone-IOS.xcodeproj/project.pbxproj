@@ -22,6 +22,11 @@
 		EF51FBE52C694AE800FE0A63 /* AlertItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF51FBE42C694AE500FE0A63 /* AlertItem.swift */; };
 		EF51FBE82C696FD800FE0A63 /* ListingList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF51FBE72C696FD800FE0A63 /* ListingList.swift */; };
 		EF51FBEA2C69709500FE0A63 /* ListingItemLoading.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF51FBE92C69709500FE0A63 /* ListingItemLoading.swift */; };
+		EF51FBEF2C697AF400FE0A63 /* CategoryListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF51FBEE2C697AF400FE0A63 /* CategoryListViewModel.swift */; };
+		EF51FBF12C697B0700FE0A63 /* CategoryItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF51FBF02C697B0700FE0A63 /* CategoryItem.swift */; };
+		EF51FBF32C697B1500FE0A63 /* CategoryList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF51FBF22C697B1500FE0A63 /* CategoryList.swift */; };
+		EF51FBF52C697B2400FE0A63 /* CategoryModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF51FBF42C697B2400FE0A63 /* CategoryModel.swift */; };
+		EF51FBF82C69818700FE0A63 /* categories.json in Resources */ = {isa = PBXBuildFile; fileRef = EF51FBF72C69817F00FE0A63 /* categories.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +46,11 @@
 		EF51FBE42C694AE500FE0A63 /* AlertItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertItem.swift; sourceTree = "<group>"; };
 		EF51FBE72C696FD800FE0A63 /* ListingList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingList.swift; sourceTree = "<group>"; };
 		EF51FBE92C69709500FE0A63 /* ListingItemLoading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListingItemLoading.swift; sourceTree = "<group>"; };
+		EF51FBEE2C697AF400FE0A63 /* CategoryListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryListViewModel.swift; sourceTree = "<group>"; };
+		EF51FBF02C697B0700FE0A63 /* CategoryItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryItem.swift; sourceTree = "<group>"; };
+		EF51FBF22C697B1500FE0A63 /* CategoryList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryList.swift; sourceTree = "<group>"; };
+		EF51FBF42C697B2400FE0A63 /* CategoryModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryModel.swift; sourceTree = "<group>"; };
+		EF51FBF72C69817F00FE0A63 /* categories.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = categories.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,13 +83,13 @@
 		EF51FBAE2C670BF200FE0A63 /* AirbnbClone-IOS */ = {
 			isa = PBXGroup;
 			children = (
-				EF51FBE12C69442F00FE0A63 /* Services */,
 				EF51FBC12C67126A00FE0A63 /* App */,
 				EF51FBB32C670BF300FE0A63 /* Assets.xcassets */,
 				EF51FBB12C670BF200FE0A63 /* ContentView.swift */,
 				EF51FBBF2C6711EB00FE0A63 /* Core */,
 				EF51FBB52C670BF300FE0A63 /* Preview Content */,
 				EF51FBBD2C67105200FE0A63 /* Resourses */,
+				EF51FBE12C69442F00FE0A63 /* Services */,
 				EF51FBBE2C67106F00FE0A63 /* Shared */,
 				EF51FBC02C67125C00FE0A63 /* Utils */,
 			);
@@ -174,6 +184,7 @@
 		EF51FBCF2C68018800FE0A63 /* MockData */ = {
 			isa = PBXGroup;
 			children = (
+				EF51FBF72C69817F00FE0A63 /* categories.json */,
 				EF51FBD32C6801E100FE0A63 /* TAB_677.json */,
 				EF51FBD52C6812F100FE0A63 /* MockListing.swift */,
 			);
@@ -208,16 +219,19 @@
 		EF51FBDF2C68820B00FE0A63 /* Category */ = {
 			isa = PBXGroup;
 			children = (
-				EF51FBE02C68822900FE0A63 /* Controller */,
+				EF51FBED2C697AE200FE0A63 /* Model */,
+				EF51FBEC2C697ADD00FE0A63 /* View */,
+				EF51FBE02C68822900FE0A63 /* ViewModel */,
 			);
 			path = Category;
 			sourceTree = "<group>";
 		};
-		EF51FBE02C68822900FE0A63 /* Controller */ = {
+		EF51FBE02C68822900FE0A63 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				EF51FBEE2C697AF400FE0A63 /* CategoryListViewModel.swift */,
 			);
-			path = Controller;
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 		EF51FBE12C69442F00FE0A63 /* Services */ = {
@@ -226,6 +240,23 @@
 				EF51FBE22C69443500FE0A63 /* NetworkManager.swift */,
 			);
 			path = Services;
+			sourceTree = "<group>";
+		};
+		EF51FBEC2C697ADD00FE0A63 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EF51FBF02C697B0700FE0A63 /* CategoryItem.swift */,
+				EF51FBF22C697B1500FE0A63 /* CategoryList.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EF51FBED2C697AE200FE0A63 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				EF51FBF42C697B2400FE0A63 /* CategoryModel.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -287,6 +318,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF51FBB72C670BF300FE0A63 /* Preview Assets.xcassets in Resources */,
+				EF51FBF82C69818700FE0A63 /* categories.json in Resources */,
 				EF51FBD42C6801E600FE0A63 /* TAB_677.json in Resources */,
 				EF51FBB42C670BF300FE0A63 /* Assets.xcassets in Resources */,
 			);
@@ -301,14 +333,18 @@
 			files = (
 				EF51FBE32C69443E00FE0A63 /* NetworkManager.swift in Sources */,
 				EF51FBB22C670BF200FE0A63 /* ContentView.swift in Sources */,
+				EF51FBF32C697B1500FE0A63 /* CategoryList.swift in Sources */,
 				EF51FBC92C67131400FE0A63 /* ListingItem.swift in Sources */,
 				EF51FBE52C694AE800FE0A63 /* AlertItem.swift in Sources */,
 				EF51FBC72C67130200FE0A63 /* ListingListViewModel.swift in Sources */,
 				EF51FBB02C670BF200FE0A63 /* AirbnbClone_IOSApp.swift in Sources */,
 				EF51FBEA2C69709500FE0A63 /* ListingItemLoading.swift in Sources */,
+				EF51FBEF2C697AF400FE0A63 /* CategoryListViewModel.swift in Sources */,
 				EF51FBD62C68130900FE0A63 /* MockListing.swift in Sources */,
 				EF51FBCC2C67B9B800FE0A63 /* ListingModel.swift in Sources */,
+				EF51FBF12C697B0700FE0A63 /* CategoryItem.swift in Sources */,
 				EF51FBDA2C681CA600FE0A63 /* SearchBarAndFilters.swift in Sources */,
+				EF51FBF52C697B2400FE0A63 /* CategoryModel.swift in Sources */,
 				EF51FBDE2C681D5000FE0A63 /* Explore.swift in Sources */,
 				EF51FBE82C696FD800FE0A63 /* ListingList.swift in Sources */,
 			);
